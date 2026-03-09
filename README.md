@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Syed Ali Mehdi Bukhari 👋</h1>
 <p align="center">
-🤖 AI / ML Engineer &nbsp;|&nbsp; 🧠 Deep Learning &nbsp;|&nbsp; ☁️ Azure AI &nbsp;|&nbsp; 🎮 Unity Game Dev Enthusiast
+🤖 AI / ML Engineer &nbsp;|&nbsp; Python · Deep Learning · MLOps · Azure AI &nbsp;|&nbsp; 🎮 Unity Game Dev Enthusiast
 </p>
 
 <br/>
@@ -19,25 +19,42 @@
 
 ## 💻 Tools & Technologies
 
-**Languages:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+<br/>
 
-**ML / AI:**
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-
-**Data:**
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat&logoColor=white)
-
-**Cloud & Tools:**
-![Azure](https://img.shields.io/badge/Azure%20AI-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-222222?style=flat&logo=unity&logoColor=white)
+<table>
+  <tr>
+    <td><b>Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>ML / AI</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Data</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+      <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Cloud & Tools</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Azure%20AI-0089D6?style=flat&logo=microsoft-azure&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Unity-222222?style=flat&logo=unity&logoColor=white"/>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
