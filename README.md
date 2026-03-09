@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Syed Ali Mehdi Bukhari 👋</h1>
 <p align="center">
-🤖 AI / ML Engineer &nbsp;|&nbsp; Python · Deep Learning · MLOps · Azure AI &nbsp;|&nbsp; 🎮 Unity Game Dev Enthusiast
+  <strong>🤖 AI / ML Engineer &nbsp;|&nbsp; Python · Deep Learning · MLOps · Azure AI &nbsp;|&nbsp; 🎮 Unity Game Dev Enthusiast</strong>
 </p>
 
 <br/>
