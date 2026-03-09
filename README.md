@@ -41,12 +41,11 @@
 
 <br/>
 
-## 📊 GitHub Stats
+## 🌱 Currently Working On
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SyedAliMehdiBukhari&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedAliMehdiBukhari&layout=compact&theme=tokyonight" height="160"/>
-</p>
+- Building ML projects with Python
+- Deepening knowledge in Deep Learning & MLOps
+- Exploring Azure AI for model deployment
 
 <br/>
 
