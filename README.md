@@ -11,8 +11,8 @@
 - 🐍 Primarily work with **Python** to build and train ML models
 - ☁️ Exploring **Azure AI** for cloud-based deployment and MLOps
 - 📊 Interested in the full ML pipeline — data → model → evaluation → deployment
-- 🎮 Building games in **Unity** as a creative outlet
 - 🌱 Currently deepening: **Deep Learning | MLOps | Model Evaluation**
+- 🎮 Building games in **Unity** as a creative outlet
 - 📍 Based in Pakistan
 
 <br/>
@@ -34,7 +34,6 @@
     <td>
       <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
       <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
     </td>
   </tr>
   <tr>
