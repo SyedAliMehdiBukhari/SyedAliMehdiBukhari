@@ -13,13 +13,13 @@
 <!-- ===== SOCIAL BADGES ===== -->
 <p align="center">
   <a href="https://www.linkedin.com/in/syedalimehdii" target="_blank">
-    <img height="56" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img height="60" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://syedalimehdii.github.io/portfolio/" target="_blank">
-    <img height="56" src="https://img.shields.io/badge/Portfolio-0a0f30?style=for-the-badge&logo=googlechrome&logoColor=7AA8F6" />
+    <img height="60" src="https://img.shields.io/badge/Portfolio-0a0f30?style=for-the-badge&logo=googlechrome&logoColor=7AA8F6" />
   </a>
   <a href="mailto:syedalimehdi719@gmail.com" target="_blank">
-    <img height="56" src="https://img.shields.io/badge/Email-111640?style=for-the-badge&logo=gmail&logoColor=7AA8F6" />
+    <img height="60" src="https://img.shields.io/badge/Email-111640?style=for-the-badge&logo=gmail&logoColor=7AA8F6" />
   </a>
 </p>
 <!-- ===== END SOCIAL BADGES ===== -->
@@ -27,51 +27,59 @@
 <br/>
 
 <!-- ===== ABOUT ME ===== -->
-## 🧠 About Me
+# 🧠 About Me
 
-**Who I am**
+### Who I am
 - AI/ML Engineer, CS Graduate
 - Specializing in Generative AI, NLP, LLMs & RAG, and Agentic AI
 
-**What I work with**
+### What I work with
 - Python across the full ML pipeline
 - RAG systems, LangChain, LangGraph, CrewAI
-- Cloud deployment with Azure AI & AWS
+- Exploring Azure AI for cloud deployment
 
-**Where**
+### Where
 - 📍 Based in Pakistan
 <!-- ===== END ABOUT ME ===== -->
 
 <br/>
 
 <!-- ===== TECH STACK ===== -->
-## 💻 Tech Stack
+# 💻 Tech Stack
 
-**Languages**
-<br/>
+### Languages
+<p>
 <img src="https://skillicons.dev/icons?i=python,cs" />
+</p>
 
-**AI / ML**
-<br/>
+### AI / ML
+<p>
 <img src="https://skillicons.dev/icons?i=tensorflow,sklearn" />&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="48" height="48" alt="Matplotlib"/>&nbsp;&nbsp;<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="48" height="48" alt="Seaborn"/>
+</p>
 
-**Agentic AI**
-<br/>
+### Agentic AI
+<p>
 <img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="48" height="48" alt="LangChain"/>&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/langgraph/1C3C3C" width="48" height="48" alt="LangGraph"/>&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/crewai/FF5A1F" width="48" height="48" alt="CrewAI"/>&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/n8n/EA4B71" width="48" height="48" alt="n8n"/>
+</p>
 
-**Backend & Cloud**
-<br/>
+### Backend & Cloud
+<p>
+<p>
 <img src="https://skillicons.dev/icons?i=fastapi,docker,aws,azure,git,github" />
+</p>
+
+</p>
+
 <!-- ===== END TECH STACK ===== -->
 
 <br/>
 
 <!-- ===== PROJECT SPOTLIGHT ===== -->
-## 🚀 Project Spotlight
+# 🚀 Project Spotlight
 
 | Project | Description | Links |
 |---|---|---|
-| GitHub Repo Multi-Agent Bug Fixer | 4-agent pipeline that auto-detects and fixes bugs in GitHub repos | [Demo](https://git-repo-bug-fixer.streamlit.app/) • [Code](https://github.com/SyedAliMehdii/Github-Repo-Multi-Agent-Bug-Fixer) |
+| GitHub Repo Multi-Agent Bug Fixer | 4-agent pipeline that auto-detects and fixes bugs in GitHub repositories | [Demo](https://git-repo-bug-fixer.streamlit.app/) • [Code](https://github.com/SyedAliMehdii/Github-Repo-Multi-Agent-Bug-Fixer) |
 <!-- ===== END PROJECT SPOTLIGHT ===== -->
 
 <br/>
@@ -80,19 +88,19 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="185" src="https://github-stats-extended.vercel.app/api?username=SyedAliMehdii&show_icons=true&hide_border=true&bg_color=111640&title_color=7aa8f6&icon_color=7aa8f6&text_color=a0a8c8&hide_rank=true&cache_seconds=86400" />
-  <img height="185" src="https://streak-stats.demolab.com/?user=SyedAliMehdii&hide_border=true&background=111640&stroke=7aa8f6&ring=7aa8f6&fire=7aa8f6&currStreakLabel=7aa8f6&sideLabels=a0a8c8&currStreakNum=ffffff&sideNums=ffffff&dates=a0a8c8" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=SyedAliMehdii&show_icons=true&hide_border=true&bg_color=111640&title_color=7aa8f6&icon_color=7aa8f6&text_color=a0a8c8&hide_rank=true&cache_seconds=86400" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=SyedAliMehdii&hide_border=true&background=111640&stroke=7aa8f6&ring=7aa8f6&fire=7aa8f6&currStreakLabel=7aa8f6&sideLabels=a0a8c8&currStreakNum=ffffff&sideNums=ffffff&dates=a0a8c8" />
 </p>
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=SyedAliMehdii&layout=compact&hide_border=true&bg_color=111640&title_color=7aa8f6&text_color=a0a8c8&card_width=850&cache_seconds=86400" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=SyedAliMehdii&layout=compact&hide_border=true&bg_color=111640&title_color=7aa8f6&text_color=a0a8c8&card_width=840&cache_seconds=86400" />
 </p>
 <!-- ===== END GITHUB STATS ===== -->
 
 <br/>
 
 <!-- ===== CONTRIBUTION GRAPH ===== -->
-## 📈 Contribution Graph
+# 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SyedAliMehdii&bg_color=0a0f30&color=7aa8f6&line=7aa8f6&point=ffffff&area=true&hide_border=true" />
@@ -102,17 +110,17 @@
 <br/>
 
 <!-- ===== CONNECT ===== -->
-## 🔗 Connect
+# 🔗 Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/syedalimehdii" target="_blank">
-    <img height="56" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img height="60" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://syedalimehdii.github.io/portfolio/" target="_blank">
-    <img height="56" src="https://img.shields.io/badge/Portfolio-0a0f30?style=for-the-badge&logo=googlechrome&logoColor=7AA8F6" />
+    <img height="60" src="https://img.shields.io/badge/Portfolio-0a0f30?style=for-the-badge&logo=googlechrome&logoColor=7AA8F6" />
   </a>
   <a href="mailto:syedalimehdi719@gmail.com" target="_blank">
-    <img height="56" src="https://img.shields.io/badge/Email-111640?style=for-the-badge&logo=gmail&logoColor=7AA8F6" />
+    <img height="60" src="https://img.shields.io/badge/Email-111640?style=for-the-badge&logo=gmail&logoColor=7AA8F6" />
   </a>
 </p>
 
@@ -121,8 +129,10 @@
 </p>
 <!-- ===== END CONNECT ===== -->
 
+<br/>
+
 <!-- ===== THANKS ===== -->
-## 🙌 Thanks for Visiting
+# 🙌 Thanks for Visiting
 <!-- ===== END THANKS ===== -->
 
 <!-- ===== BOTTOM BANNER ===== -->
