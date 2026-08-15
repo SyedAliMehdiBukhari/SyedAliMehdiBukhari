@@ -88,12 +88,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="175" src="https://github-stats-extended.vercel.app/api?username=SyedAliMehdii&show_icons=true&hide_border=true&bg_color=111640&title_color=7aa8f6&icon_color=7aa8f6&text_color=a0a8c8&hide_rank=true&cache_seconds=43200" />
-  <img height="175" src="https://streak-stats.demolab.com/?user=SyedAliMehdii&hide_border=true&background=111640&stroke=7aa8f6&ring=7aa8f6&fire=7aa8f6&currStreakLabel=7aa8f6&sideLabels=a0a8c8&currStreakNum=ffffff&sideNums=ffffff&dates=a0a8c8" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api?username=SyedAliMehdii&show_icons=true&hide_border=true&bg_color=111640&title_color=7aa8f6&icon_color=7aa8f6&text_color=a0a8c8&hide_rank=true&cache_seconds=43200" />
+  <img height="180" src="https://streak-stats.demolab.com/?user=SyedAliMehdii&hide_border=true&background=111640&stroke=7aa8f6&ring=7aa8f6&fire=7aa8f6&currStreakLabel=7aa8f6&sideLabels=a0a8c8&currStreakNum=ffffff&sideNums=ffffff&dates=a0a8c8" />
 </p>
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=SyedAliMehdii&layout=compact&hide_border=true&bg_color=111640&title_color=7aa8f6&text_color=a0a8c8&card_width=840&cache_seconds=43200" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=SyedAliMehdii&layout=compact&hide_border=true&bg_color=111640&title_color=7aa8f6&text_color=a0a8c8&card_width=830&cache_seconds=43200" />
 </p>
 <!-- ===== END GITHUB STATS ===== -->
 
