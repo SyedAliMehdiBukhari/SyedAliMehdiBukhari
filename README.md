@@ -1,71 +1,130 @@
-<h1 align="center">Hi, I'm Syed Ali Mehdi Bukhari 👋</h1>
+<!-- ===== TOP BANNER ===== -->
 <p align="center">
-  <strong>🤖 AI / ML Engineer &nbsp;|&nbsp; Python · Deep Learning · MLOps · Azure AI &nbsp;|&nbsp; 🎮 Unity Game Dev Enthusiast</strong>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f30,100:111640&height=220&section=header&text=Hi%20Im%20Syed%20Ali%20Mehdi%20Bukhari&fontSize=34&fontColor=7AA8F6&fontAlignY=32&desc=AI%20ML%20Engineer%20building%20Generative%20AI%20and%20Agentic%20systems&descSize=16&descAlignY=48&descColor=ffffff&animation=fadeIn" width="100%"/>
 </p>
+<!-- ===== END TOP BANNER ===== -->
+
+<!-- ===== TYPING SUBTITLE ===== -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer;Generative+AI+%26+NLP;Building+RAG+Agents;Exploring+Agentic+AI" alt="Typing SVG" />
+</p>
+<!-- ===== END TYPING SUBTITLE ===== -->
+
+<!-- ===== SOCIAL BADGES ===== -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/syedalimehdii" target="_blank">
+    <img height="56" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://syedalimehdii.github.io/portfolio/" target="_blank">
+    <img height="56" src="https://img.shields.io/badge/Portfolio-0a0f30?style=for-the-badge&logo=googlechrome&logoColor=7AA8F6" />
+  </a>
+  <a href="mailto:syedalimehdi719@gmail.com" target="_blank">
+    <img height="56" src="https://img.shields.io/badge/Email-111640?style=for-the-badge&logo=gmail&logoColor=7AA8F6" />
+  </a>
+</p>
+<!-- ===== END SOCIAL BADGES ===== -->
 
 <br/>
 
+<!-- ===== ABOUT ME ===== -->
 ## 🧠 About Me
 
-- 🎓 CS Graduate focused on **Artificial Intelligence & Machine Learning**
-- 🐍 Primarily work with **Python** to build and train ML models
-- ☁️ Exploring **Azure AI** for cloud-based deployment and MLOps
-- 📊 Interested in the full ML pipeline — data → model → evaluation → deployment
-- 🌱 Currently deepening: **Deep Learning | MLOps | Model Evaluation**
-- 🎮 Building games in **Unity** as a creative outlet
+**Who I am**
+- AI/ML Engineer, CS Graduate
+- Specializing in Generative AI, NLP, LLMs & RAG, and Agentic AI
+
+**What I work with**
+- Python across the full ML pipeline
+- RAG systems, LangChain, LangGraph, CrewAI
+- Cloud deployment with Azure AI & AWS
+
+**Where**
 - 📍 Based in Pakistan
+<!-- ===== END ABOUT ME ===== -->
 
 <br/>
 
-## 💻 Tools & Technologies
+<!-- ===== TECH STACK ===== -->
+## 💻 Tech Stack
+
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,cs" />
+
+**AI / ML**
+<br/>
+<img src="https://skillicons.dev/icons?i=tensorflow,sklearn" />&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="48" height="48" alt="Matplotlib"/>&nbsp;&nbsp;<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="48" height="48" alt="Seaborn"/>
+
+**Agentic AI**
+<br/>
+<img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="48" height="48" alt="LangChain"/>&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/langgraph/1C3C3C" width="48" height="48" alt="LangGraph"/>&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/crewai/FF5A1F" width="48" height="48" alt="CrewAI"/>&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/n8n/EA4B71" width="48" height="48" alt="n8n"/>
+
+**Backend & Cloud**
+<br/>
+<img src="https://skillicons.dev/icons?i=fastapi,docker,aws,azure,git,github" />
+<!-- ===== END TECH STACK ===== -->
 
 <br/>
 
-<table>
-  <tr>
-    <td><b>Languages</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td><b>ML / AI</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Data</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
-      <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Cloud & Tools</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Azure%20AI-0089D6?style=flat&logo=microsoft-azure&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Unity-222222?style=flat&logo=unity&logoColor=white"/>
-    </td>
-  </tr>
-</table>
+<!-- ===== PROJECT SPOTLIGHT ===== -->
+## 🚀 Project Spotlight
+
+| Project | Description | Links |
+|---|---|---|
+| GitHub Repo Multi-Agent Bug Fixer | Multi-agent pipeline that auto-detects and fixes bugs in GitHub repo automatically | [Demo](https://git-repo-bug-fixer.streamlit.app/) • [Code](https://github.com/SyedAliMehdii/Github-Repo-Multi-Agent-Bug-Fixer) |
+<!-- ===== END PROJECT SPOTLIGHT ===== -->
 
 <br/>
 
-## 🌱 Currently Working On
+<!-- ===== GITHUB STATS ===== -->
+## 📊 GitHub Stats
 
-- Building ML projects with Python
-- Deepening knowledge in Deep Learning & MLOps
-- Exploring Azure AI for model deployment
+<p align="center">
+  <img height="185" src="https://github-stats-extended.vercel.app/api?username=SyedAliMehdii&show_icons=true&hide_border=true&bg_color=111640&title_color=7aa8f6&icon_color=7aa8f6&text_color=a0a8c8&hide_rank=true&cache_seconds=86400" />
+  <img height="185" src="https://streak-stats.demolab.com/?user=SyedAliMehdii&hide_border=true&background=111640&stroke=7aa8f6&ring=7aa8f6&fire=7aa8f6&currStreakLabel=7aa8f6&sideLabels=a0a8c8&currStreakNum=ffffff&sideNums=ffffff&dates=a0a8c8" />
+</p>
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=SyedAliMehdii&layout=compact&hide_border=true&bg_color=111640&title_color=7aa8f6&text_color=a0a8c8&card_width=850&cache_seconds=86400" />
+</p>
+<!-- ===== END GITHUB STATS ===== -->
 
 <br/>
 
+<!-- ===== CONTRIBUTION GRAPH ===== -->
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SyedAliMehdii&bg_color=0a0f30&color=7aa8f6&line=7aa8f6&point=ffffff&area=true&hide_border=true" />
+</p>
+<!-- ===== END CONTRIBUTION GRAPH ===== -->
+
+<br/>
+
+<!-- ===== CONNECT ===== -->
 ## 🔗 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syedalimehdibukhari/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/SyedAliMehdiBukhari)
+<p align="center">
+  <a href="https://www.linkedin.com/in/syedalimehdii" target="_blank">
+    <img height="56" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://syedalimehdii.github.io/portfolio/" target="_blank">
+    <img height="56" src="https://img.shields.io/badge/Portfolio-0a0f30?style=for-the-badge&logo=googlechrome&logoColor=7AA8F6" />
+  </a>
+  <a href="mailto:syedalimehdi719@gmail.com" target="_blank">
+    <img height="56" src="https://img.shields.io/badge/Email-111640?style=for-the-badge&logo=gmail&logoColor=7AA8F6" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>Open to AI/ML roles and collaborations — feel free to reach out.</sub>
+</p>
+<!-- ===== END CONNECT ===== -->
+
+<!-- ===== THANKS ===== -->
+## 🙌 Thanks for Visiting
+<!-- ===== END THANKS ===== -->
+
+<!-- ===== BOTTOM BANNER ===== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111640,100:0a0f30&height=140&section=footer&text=Find%20value%20here%3F%20Drop%20a%20%E2%AD%90%20on%20the%20repos%20%E2%80%94%20always%20open%20to%20talk%20AI%20or%20collaborate&fontSize=14&fontAlignY=65&fontColor=7AA8F6&animation=fadeIn" width="100%"/>
+<!-- ===== END BOTTOM BANNER ===== -->
