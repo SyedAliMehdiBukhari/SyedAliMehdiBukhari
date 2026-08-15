@@ -71,7 +71,7 @@
 
 | Project | Description | Links |
 |---|---|---|
-| GitHub Repo Multi-Agent Bug Fixer | Multi-agent pipeline that auto-detects and fixes bugs in GitHub repo automatically | [Demo](https://git-repo-bug-fixer.streamlit.app/) • [Code](https://github.com/SyedAliMehdii/Github-Repo-Multi-Agent-Bug-Fixer) |
+| GitHub Repo Multi-Agent Bug Fixer | 4-agent pipeline that auto-detects and fixes bugs in GitHub repos | [Demo](https://git-repo-bug-fixer.streamlit.app/) • [Code](https://github.com/SyedAliMehdii/Github-Repo-Multi-Agent-Bug-Fixer) |
 <!-- ===== END PROJECT SPOTLIGHT ===== -->
 
 <br/>
