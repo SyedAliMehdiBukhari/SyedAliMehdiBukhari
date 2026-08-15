@@ -88,8 +88,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=SyedAliMehdii&show_icons=true&hide_border=true&bg_color=111640&title_color=7aa8f6&icon_color=7aa8f6&text_color=a0a8c8&hide_rank=true&cache_seconds=86400" />
-  <img height="165" src="https://streak-stats.demolab.com/?user=SyedAliMehdii&hide_border=true&background=111640&stroke=7aa8f6&ring=7aa8f6&fire=7aa8f6&currStreakLabel=7aa8f6&sideLabels=a0a8c8&currStreakNum=ffffff&sideNums=ffffff&dates=a0a8c8" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=SyedAliMehdii&show_icons=true&hide_border=true&bg_color=111640&title_color=7aa8f6&icon_color=7aa8f6&text_color=a0a8c8&hide_rank=true&cache_seconds=86400" />
+  <img height="170" src="https://streak-stats.demolab.com/?user=SyedAliMehdii&hide_border=true&background=111640&stroke=7aa8f6&ring=7aa8f6&fire=7aa8f6&currStreakLabel=7aa8f6&sideLabels=a0a8c8&currStreakNum=ffffff&sideNums=ffffff&dates=a0a8c8" />
 </p>
 
 <p align="center">
@@ -125,11 +125,11 @@
 </p>
 
 <p align="center">
-  <sub>Open to AI/ML roles and collaborations — feel free to reach out.</sub>
+  <p align="center">
+  Open to AI/ML roles and collaborations — feel free to reach out.
+  </p>
 </p>
 <!-- ===== END CONNECT ===== -->
-
-<br/>
 
 <!-- ===== THANKS ===== -->
 # 🙌 Thanks for Visiting
