@@ -36,7 +36,7 @@
 ### What I work with
 - Python across the full ML pipeline
 - RAG systems, LangChain, LangGraph, CrewAI
-- Exploring Azure AI for cloud deployment
+- AWS & Azure AI for cloud deployment
 
 ### Where
 - 📍 Based in Pakistan
